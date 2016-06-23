@@ -1,5 +1,5 @@
 #Roadmap
 
-## 1.2.0
+## 1.2
 
 * [Color Palette](colorpalette.md)
