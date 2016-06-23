@@ -8,7 +8,7 @@ The easiest way to create Power BI visuals is by using the Power BI  Visuals CLI
 
 [Getting started instructions](tools/README.md)
 
-##Documentation
+##API Documentation
 
 * [Anatomy of a Visual Project](VisualProject.md)
 * [Defining Visual Capabilities](Capabilities/readme.md)
