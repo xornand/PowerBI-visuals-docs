@@ -17,4 +17,4 @@ The easiest way to create Power BI visuals is by using the Power BI  Visuals CLI
 * todo...
 * [Glossary](Glossary.md)
 * [Change Log](ChangeLog.md)
-* [Roadmap](Roadmap/Readme.md)
+* [Roadmap](Roadmap/README.md)
