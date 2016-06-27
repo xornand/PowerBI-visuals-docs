@@ -1,14 +1,14 @@
 #Microsoft Power BI Visuals API
 
-This guide is meant to provide the quickest path to creating your first custom visual.
+This guide is meant to provide the quickest path to creating your first Power BI visual.
 
-##Setup
+##Developing Visuals
 
-The easiest way to create custom visuals is by using the PowerBI Custom Visuals CLI tools which can be easily to installed via NPM.
+The easiest way to create Power BI visuals is by using the Power BI  Visuals CLI tools which can be easily to installed via NPM.
 
-[Setup instructions](tools/README.md)
+[Getting started instructions](tools/README.md)
 
-##Creating Visuals
+##API Documentation
 
 * [Anatomy of a Visual Project](VisualProject.md)
 * [Defining Visual Capabilities](Capabilities/readme.md)
@@ -17,4 +17,4 @@ The easiest way to create custom visuals is by using the PowerBI Custom Visuals 
 * todo...
 * [Glossary](Glossary.md)
 * [Change Log](ChangeLog.md)
-* [Roadmap](Roadmap/Readme.md)
+* [Roadmap](Roadmap/README.md)
